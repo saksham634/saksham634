@@ -55,20 +55,23 @@ I’m a passionate Software Engineer skilled in **C++**, **Python**, **JavaScrip
 
 ## 🔝 Top Projects
 
-### [Project 1: Smart Dashboard](https://github.com/saksham634/smart-dashboard)  
-_A real-time data visualization dashboard built with React, Python Flask, and AWS Lambda._  
-**Tech:** React, Flask, AWS, Docker, MongoDB
+### [Weather Forecast](https://github.com/saksham634/weatherforecast)  
+_A comprehensive weather forecasting app providing real-time weather updates, forecasts, and alerts with a sleek UI._  
+**Tech:** JavaScript, HTML, CSS, APIs
 
-### [Project 2: API Automation Suite](https://github.com/saksham634/api-automation)  
-_A scalable API testing and automation framework using Postman and Jenkins._  
-**Tech:** Postman, Jenkins, JavaScript, Docker
+### [Face Detection](https://github.com/saksham634/Face-detection)  
+_An AI-powered face detection system that identifies faces in images and videos using computer vision techniques._  
+**Tech:** Python, OpenCV, Machine Learning
 
-### [Project 3: ChatApp](https://github.com/saksham634/chatapp)  
-_A full-stack chat application with real-time messaging and push notifications._  
-**Tech:** Node.js, Socket.io, Redis, MongoDB
+### [Dashboard Power BI](https://github.com/saksham634/dashboard-power-bi)  
+_An interactive business intelligence dashboard created with Microsoft Power BI to visualize key performance metrics._  
+**Tech:** Power BI, Data Visualization, Analytics
 
-*Check out more on [my GitHub profile](https://github.com/saksham634?tab=repositories)*
+### [HR Analytics Dashboard](https://github.com/saksham634/HR-Analytics-Dashboard)  
+_A data-driven HR analytics dashboard offering insights into employee performance, attrition, and workforce planning._  
+**Tech:** Power BI, Data Analysis, SQL
 
+*Explore more projects on [my GitHub profile](https://github.com/saksham634?tab=repositories)*
 ---
 
 ## ✍️ Quote of the Day  
