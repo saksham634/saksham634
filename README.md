@@ -5,7 +5,7 @@ I’m a passionate Software Engineer skilled in **C++**, **Python**, **JavaScrip
 
 - 🔥 Currently diving deep into **Cloud-Native Development & DevOps (Docker, AWS)**  
 - 🌱 Always learning about **Distributed Systems & Data Engineering**  
-- 💬 Ask me about anything related to **Backend, Databases, or APIs**  
+- 💬 “I’m improving my backend and database API skills.” **Backend, Databases, or APIs**  
 - ⚡ Fun fact: I enjoy turning coffee ☕️ into clean, efficient code!  
 
 ---
