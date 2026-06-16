@@ -55,13 +55,6 @@ I’m a passionate Software Engineer skilled in **C++**, **Python**, **JavaScrip
 
 ## 🔝 Top Projects
 
-### [Weather Forecast](https://github.com/saksham634/weatherforecast)  
-_A comprehensive weather forecasting app providing real-time weather updates, forecasts, and alerts with a sleek UI._  
-**Tech:** JavaScript, HTML, CSS, APIs
-
-### [Face Detection](https://github.com/saksham634/Face-detection)  
-_An AI-powered face detection system that identifies faces in images and videos using computer vision techniques._  
-**Tech:** Python, OpenCV, Machine Learning
 
 ### [Dashboard Power BI](https://github.com/saksham634/dashboard-power-bi)  
 _An interactive business intelligence dashboard created with Microsoft Power BI to visualize key performance metrics._  
