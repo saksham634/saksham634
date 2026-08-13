@@ -91,15 +91,6 @@ _An interactive data-driven dashboard evaluating key metrics for workforce plann
 
 ---
 
-## 💼 Experience Highlight
-
-**Software Engineer Intern** @ *StarWatt Technologies Pvt. Ltd.* *(Aug 2024 – Oct 2024)*
-* Managed and optimized MySQL database operations by implementing **B-Tree indexing** and refactoring complex SQL joins to boost execution speed by **35%**.
-* Analyzed database execution plans to optimize query execution, improving data retrieval efficiency by **30%**.
-* Engineered **Node.js & Express APIs** to connect relational databases with asynchronous backend workflows.
-
----
-
 ## 🎓 Education & Credentials
 
 * **CDAC Noida** — Post Graduate Diploma in Advanced Computing (PGCP-AC) *(2026)*
