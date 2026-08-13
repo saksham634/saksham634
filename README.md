@@ -107,14 +107,6 @@ _An interactive data-driven dashboard evaluating key metrics for workforce plann
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saksham634&theme=radical&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</p>
-
----
-
 ## ✍️ Quote of the Day
 > _"Code is like humor. When you have to explain it, it’s bad."_ — Cory House  
 ![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
