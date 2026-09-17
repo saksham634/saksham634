@@ -1,65 +1,35 @@
 <div align="center">
-  <h1>Hi there, I'm Saksham Sharma 👋</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;Cloud+%26+Database+Enthusiast" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=250&section=header&text=Saksham%20Sharma&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header Banner" width="100%" />
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;Cloud+%26+Database+Enthusiast;Building+Scalable+Web+Systems" alt="Typing SVG" />
+  
   <br/>
-  <img src="https://api.visitorbadge.io/api/visitors?path=saksham634&countColor=%2338B2AC&labelColor=%2320232a" alt="Profile Views" />
+  
+  <a href="https://www.linkedin.com/in/saksham01sharma/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:saksham634@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="#"><img src="https://api.visitorbadge.io/api/visitors?path=saksham634&countColor=%2338B2AC&labelColor=%2320232a&style=for-the-badge" alt="Profile Views" /></a>
 </div>
 
 <br/>
 
-## 👨🏻‍💻 About Me
-I’m a **Software Engineer** specializing in full-stack development, cloud technologies, and database performance optimization. I focus on engineering secure, scalable, and data-driven web systems using modern architectures.
+## 🔭 About Me
+
+I’m a **Software Engineer** specializing in full-stack development, cloud technologies, and database performance optimization. With a strong foundation in **Java, C++, Spring Boot 3, React, and Node.js**, I focus on engineering secure, scalable, and data-driven web systems.
 
 - 🎓 **B.Tech in Computer Science (Data Science)** | **CDAC PGCP-AC (2026)**
-- 🔥 Currently diving deep into **Microservices, Spring Security (JWT/RBAC), & Cloud-Native DevOps**
+- 🔥 Currently diving deep into **Microservices Architecture, Spring Security (JWT/RBAC), and Cloud-Native DevOps (Docker, AWS)**
 - 🌱 Constantly expanding my knowledge in **Distributed Systems, Database Indexing, & Data Engineering**
 - 💬 Ask me about **Java, C++, Spring Boot, SQL Execution Plans, REST APIs, and System Design**
-- ⚡ Fun fact: I turn coffee ☕ into clean, efficient code and optimized database queries!
+- ⚡ **Fun fact:** I turn coffee ☕ into clean, efficient code and optimized database queries!
 
 ---
 
-## 🛠️ Engineering Capabilities & Tech Stack
+<h2 align="center">📊 GitHub Analytics</h2>
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>⚙️ Core Competencies</h3>
-      <ul>
-        <li><b>Full-Stack Development:</b> Architecting resilient systems with Spring Boot backends and dynamic React frontends.</li>
-        <li><b>Systems & Algorithms:</b> Leveraging <b>C++</b> for robust algorithmic problem-solving and memory management.</li>
-        <li><b>Database Optimization:</b> SQL query refactoring, B-Tree indexing, execution plans, & Star Schema.</li>
-        <li><b>Security & Auth:</b> JWT stateless authentication, BCrypt, & Role-Based Access Control (RBAC).</li>
-        <li><b>Automated CI/CD:</b> GitHub Actions workflows for build verification & deployments.</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>💻 Tech Arsenal</h3>
-      <b>Languages:</b><br/>
-      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" />
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
-      <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white" /><br/><br/>
-      <b>Frameworks:</b><br/>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
-      <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express.js-%23404D59.svg?style=flat-square&logo=express&logoColor=white" /><br/><br/>
-      <b>Databases:</b><br/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" /><br/><br/>
-      <b>Cloud & Tools:</b><br/>
-      <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Analytics
-
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saksham634&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+</div>
+<br/>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saksham634&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="195" alt="Saksham's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham634&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="195" alt="Top Languages" />
@@ -67,59 +37,87 @@ I’m a **Software Engineer** specializing in full-stack development, cloud tech
 
 ---
 
-## 🚀 Featured Projects
+## ⚡ Quick Highlights
 
-<details>
-  <summary><b>🛠️ Workforce Automation Portal (WAP)</b> <i>(Click to expand)</i></summary>
-  <br/>
-  <i>An automated enterprise management portal engineered for attendance tracking, leave management, and payroll processing.</i>
-  <ul>
-    <li><b>Tech Stack:</b> Java, Spring Boot 3, React 19, MySQL, REST APIs, JWT, CI/CD, Groq AI API</li>
-    <li>Architected a full-stack portal enforcing <b>Spring Security (RBAC)</b> across multi-tier users and integrated Gmail SMTP for OTP-based password recovery.</li>
-    <li>Secured RESTful endpoints using <b>JWT stateless authentication</b> & BCrypt hashing; established an automated <b>GitHub Actions CI/CD</b> pipeline.</li>
-    <li>Integrated an AI-driven chatbot using Groq AI API for instant query resolutions.</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>💬 OnlineChat App</b> <i>(Click to expand)</i></summary>
-  <br/>
-  <i>A real-time messaging application designed with responsive communication workflows and user status tracking.</i>
-  <ul>
-    <li><b>Tech Stack:</b> MongoDB, Express.js, React, Node.js, JWT, Tailwind CSS</li>
-    <li>Built full-stack messaging capabilities with real-time updates and HTTP-only cookie-based JWT authentication.</li>
-    <li>Designed scalable RESTful APIs with Mongoose schema validation; deployed frontend on Vercel and backend on Render.</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>📊 HR Analytics Dashboard</b> <i>(Click to expand)</i></summary>
-  <br/>
-  <i>An interactive data-driven dashboard evaluating key metrics for workforce planning, employee performance, and retention.</i>
-  <ul>
-    <li><b>Tech Stack:</b> Power BI, Power Query, DAX, SQL</li>
-    <li>Extracted and transformed complex HR datasets using Power Query into a normalized star-schema data model.</li>
-    <li>Engineered custom calculated columns and DAX-based KPIs (<code>CALCULATE</code>, <code>FILTER</code>, <code>SUMX</code>) for predictive workforce analytics.</li>
-  </ul>
-</details>
-
-<br/>
-<p align="center">
-  <i>Explore more repositories on <a href="https://github.com/saksham634?tab=repositories">my GitHub profile</a></i>
-</p>
+| Feature | Focus Area |
+| :--- | :--- |
+| **Core Stack** | Java, C++, Spring Boot 3, React 19, Node.js, SQL / NoSQL |
+| **Security & Auth** | Spring Security, Role-Based Access Control (RBAC), JWT, OAuth2 |
+| **Database Specialization** | Query Optimization, B-Tree Indexing, Star Schema Modeling |
+| **DevOps & Cloud** | AWS EC2, Docker, GitHub Actions CI/CD Pipelines |
 
 ---
 
-## 📫 Let's Connect
+## 💻 Tech Stack
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/saksham01sharma/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:saksham634@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  
+  **Languages** <br/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <br/><br/>
+
+  **Frameworks & Libraries** <br/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <br/><br/>
+
+  **Databases & DevOps** <br/>
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
 </div>
 
-<br/>
+---
+
+## 🛠️ Engineering Capabilities
+
+* 🌐 **Full-Stack Development:** Architecting resilient enterprise systems with Spring Boot multi-tier backend layers and dynamic React frontends.
+* ⚙️ **Systems & Algorithms:** Leveraging C++ for robust algorithmic problem-solving and understanding core memory management and system-level processes.
+* 🗄️ **Database Optimization:** Proficient in SQL query refactoring, B-Tree indexing, analyzing execution plans, and normalization (Star Schema).
+* 🔒 **Security & Authentication:** Implementing JWT stateless authentication, password encryption (BCrypt), and Role-Based Access Control (RBAC).
+* 🚀 **Automated CI/CD:** Writing GitHub Actions workflows to streamline build verification, unit testing, and continuous deployments.
+
+---
+
+## 🔝 Top Projects
+
+> ### 🏢 [Workforce Automation Portal (WAP)](https://github.com/saksham634)
+> **Tech:** Java, Spring Boot 3, React 19, MySQL, REST APIs, JWT, CI/CD, Groq AI API
+> * Architected a full-stack portal enforcing **Spring Security (RBAC)** across multi-tier users and integrated Gmail SMTP for OTP-based password recovery.
+> * Secured RESTful endpoints using **JWT stateless authentication** & BCrypt hashing; established an automated **GitHub Actions CI/CD** pipeline.
+
+> ### 💬 [OnlineChat App](https://github.com/saksham634)
+> **Tech:** MongoDB, Express.js, React, Node.js, JWT, Tailwind CSS
+> * Built full-stack messaging capabilities with real-time updates and HTTP-only cookie-based JWT authentication.
+> * Designed scalable RESTful APIs with Mongoose schema validation; deployed frontend on Vercel and backend on Render.
+
+> ### 📊 [HR Analytics Dashboard](https://github.com/saksham634/HR-Analytics-Dashboard)
+> **Tech:** Power BI, Power Query, DAX, SQL
+> * Extracted and transformed complex HR datasets using Power Query into a normalized star-schema data model.
+> * Engineered custom calculated columns and DAX-based KPIs (`CALCULATE`, `FILTER`, `SUMX`) for predictive workforce analytics.
+
+---
+
+## 🎓 Education & Credentials
+
+* **CDAC Noida** — Post Graduate Diploma in Advanced Computing (PGCP-AC) *(2026)*
+* **ABES Engineering College** — B.Tech in Computer Science (Data Science) *(2021 – 2025)*
+
+---
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
-  <p><b>Proudly crafted with ❤️ by Saksham Sharma</b></p>
+  <br/><br/>
+  <b>Proudly crafted with ❤️ by Saksham Sharma</b>
 </div>
