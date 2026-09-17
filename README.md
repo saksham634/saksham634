@@ -24,18 +24,20 @@ I’m a **Software Engineer** specializing in full-stack development, cloud tech
 
 ---
 
-<h2 align="center">📊 GitHub Activity Analytics</h2>
+<h2 align="center">📊 Live Profile Metrics</h2>
 
-<!-- Dynamic Activity Graph: Reliable, rate-limit safe, and visually advanced -->
+<!-- 100% Reliable Shields.io badges styled to match the dark/teal theme -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saksham634&bg_color=0D1117&color=38B2AC&line=38B2AC&point=FFFFFF&area=true&hide_border=true&custom_title=Commit%20Activity%20Graph" width="100%" alt="Saksham's GitHub Activity Graph" />
+  <img src="https://img.shields.io/github/followers/saksham634?style=for-the-badge&logo=github&color=20232a&labelColor=38B2AC&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/repos/saksham634?style=for-the-badge&logo=git&color=20232a&labelColor=38B2AC&label=Repositories" alt="Repositories" />
+  <img src="https://img.shields.io/github/stars/saksham634?style=for-the-badge&logo=apachespark&color=20232a&labelColor=38B2AC&label=Total%20Stars" alt="Stars" />
 </div>
 
 ---
 
 ## 💻 Tech Stack
 
-<!-- Premium Skill Icons upgrade for a much cleaner, modern look -->
+<!-- Premium Skill Icons upgrade for a much cleaner, glass-morphic look -->
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,cpp,spring,react,nodejs,express,js,python,html,css&perline=10" alt="Tech Stack Line 1" />
