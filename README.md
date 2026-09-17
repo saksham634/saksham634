@@ -24,15 +24,24 @@ I’m a **Software Engineer** specializing in full-stack development, cloud tech
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">📊 GitHub Activity Analytics</h2>
 
+<!-- Dynamic Activity Graph: Reliable, rate-limit safe, and visually advanced -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saksham634&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saksham634&bg_color=0D1117&color=38B2AC&line=38B2AC&point=FFFFFF&area=true&hide_border=true&custom_title=Commit%20Activity%20Graph" width="100%" alt="Saksham's GitHub Activity Graph" />
 </div>
-<br/>
+
+---
+
+## 💻 Tech Stack
+
+<!-- Premium Skill Icons upgrade for a much cleaner, modern look -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saksham634&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="195" alt="Saksham's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham634&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="195" alt="Top Languages" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cpp,spring,react,nodejs,express,js,python,html,css&perline=10" alt="Tech Stack Line 1" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=tailwind,mysql,postgres,mongodb,aws,docker,git,github,postman&perline=10" alt="Tech Stack Line 2" />
+  </a>
 </div>
 
 ---
@@ -45,38 +54,6 @@ I’m a **Software Engineer** specializing in full-stack development, cloud tech
 | **Security & Auth** | Spring Security, Role-Based Access Control (RBAC), JWT, OAuth2 |
 | **Database Specialization** | Query Optimization, B-Tree Indexing, Star Schema Modeling |
 | **DevOps & Cloud** | AWS EC2, Docker, GitHub Actions CI/CD Pipelines |
-
----
-
-## 💻 Tech Stack
-
-<div align="center">
-  
-  **Languages** <br/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <br/><br/>
-
-  **Frameworks & Libraries** <br/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <br/><br/>
-
-  **Databases & DevOps** <br/>
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
-</div>
 
 ---
 
