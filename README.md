@@ -1,12 +1,17 @@
-# 👋 Hey there! I’m Saksham Sharma
+<h1 align="center">Hi there, I'm Saksham Sharma 👋</h1>
+<h3 align="center">Software Engineer | Full-Stack Developer | Cloud & Database Enthusiast</h3>
+
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=saksham634&countColor=%23263759&labelColor=%2320232a" alt="Profile Views" />
+</p>
 
 ## 🔭 About Me
-I’m a **Software Engineer** specializing in full-stack development, cloud technologies, and database performance optimization. With a strong foundation in **Java, Spring Boot 3, React, and Node.js**, I focus on engineering secure, scalable, and data-driven web systems.
+I’m a **Software Engineer** specializing in full-stack development, cloud technologies, and database performance optimization. With a strong foundation in **Java, C++, Spring Boot 3, React, and Node.js**, I focus on engineering secure, scalable, and data-driven web systems.
 
 - 🎓 **B.Tech in Computer Science (Data Science)** | **CDAC PGCP-AC (2026)**
 - 🔥 Currently diving deep into **Microservices Architecture, Spring Security (JWT/RBAC), and Cloud-Native DevOps (Docker, AWS)**
 - 🌱 Constantly expanding my knowledge in **Distributed Systems, Database Indexing, & Data Engineering**
-- 💬 Ask me about **Java, Spring Boot, SQL Execution Plans, REST APIs, and System Design**
+- 💬 Ask me about **Java, C++, Spring Boot, SQL Execution Plans, REST APIs, and System Design**
 - ⚡ Fun fact: I turn coffee ☕ into clean, efficient code and optimized database queries!
 
 ---
@@ -15,7 +20,7 @@ I’m a **Software Engineer** specializing in full-stack development, cloud tech
 
 | Feature | Focus Area |
 | :--- | :--- |
-| **Core Stack** | Java, Spring Boot 3, React 19, Node.js, SQL / NoSQL |
+| **Core Stack** | Java, C++, Spring Boot 3, React 19, Node.js, SQL / NoSQL |
 | **Security & Auth** | Spring Security, Role-Based Access Control (RBAC), JWT, OAuth2 |
 | **Database Specialization** | Query Optimization, B-Tree Indexing, Star Schema Modeling |
 | **DevOps & Cloud** | AWS EC2, Docker, GitHub Actions CI/CD Pipelines |
@@ -26,6 +31,7 @@ I’m a **Software Engineer** specializing in full-stack development, cloud tech
 
 ### 🚀 Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -57,9 +63,22 @@ I’m a **Software Engineer** specializing in full-stack development, cloud tech
 
 ---
 
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saksham634&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Saksham's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saksham634&theme=radical&hide_border=true&background=0D1117" alt="Saksham's GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham634&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</p>
+
+---
+
 ## 🛠️ Engineering Capabilities
 
 * **Full-Stack Development:** Architecting resilient enterprise systems with Spring Boot multi-tier backend layers and dynamic React frontends.
+* **Systems & Algorithms:** Leveraging C++ for robust algorithmic problem-solving and understanding core memory management and system-level processes.
 * **Database Optimization:** Proficient in SQL query refactoring, B-Tree indexing, analyzing execution plans, and normalization (Star Schema).
 * **Security & Authentication:** Implementing JWT stateless authentication, password encryption (BCrypt), and Role-Based Access Control (RBAC).
 * **Automated CI/CD:** Writing GitHub Actions workflows to streamline build verification, unit testing, and continuous deployments.
@@ -100,17 +119,22 @@ _An interactive data-driven dashboard evaluating key metrics for workforce plann
 
 ## ✍️ Quote of the Day
 > _"Code is like humor. When you have to explain it, it’s bad."_ — Cory House  
-![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
+</p>
 
 ---
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saksham01sharma/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saksham634@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/saksham01sharma/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:saksham634@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 <br/>
 
 <p align="center">
-  Proudly crafted with ❤️ by Saksham Sharma
+  <b>Proudly crafted with ❤️ by Saksham Sharma</b>
 </p>
